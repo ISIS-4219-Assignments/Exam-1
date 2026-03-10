@@ -6,3 +6,6 @@ env/
 
 # Ignore reference file
 src/reference.ipynb
+
+# Ignore lock temporal file
+docs/.*
